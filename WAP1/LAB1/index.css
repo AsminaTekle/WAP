@@ -1,0 +1,13 @@
+#profile-pic {
+    border-radius: 30%;
+    width: 25%;
+    height: 30%;
+}
+figcaption {
+    font-size : 2vw;
+    font-family : fantasy;
+}
+#Html-Checker-img {
+    width: 5vw;
+margin-left : 2.5vw;
+}
